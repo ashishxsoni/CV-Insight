@@ -237,7 +237,7 @@ export default function MatcherPage() {
       </main>
 
       <footer className="text-center text-xs text-zinc-400 py-8">
-        Resume Parsing &amp; Job Matching System · Rule-based · No LLMs
+        CV Insight · Rule-based · No LLMs
       </footer>
     </div>
   );

@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Resume Parsing & Job Matching System",
+  title: "CVInsights",
   description: "Rule-based resume parser and job matcher — no LLMs used.",
 };
 

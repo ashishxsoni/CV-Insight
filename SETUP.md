@@ -1,4 +1,4 @@
-# Resume Parsing & Job Matching System
+# CVInsights
 
 A **rule-based** (no LLMs) Resume Parser and Job Description Matcher built with **Next.js 16 + TypeScript**.
 

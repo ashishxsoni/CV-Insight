@@ -1,0 +1,101 @@
+{
+  "name": "John Doe",
+  "email": "john.doe@email.com",
+  "phone": "555-123-4567",
+  "salary": null,
+  "yearOfExperience": 5,
+  "resumeSkills": [
+    "Java",
+    "Spring Boot",
+    "Python",
+    "React",
+    "Docker",
+    "Kubernetes",
+    "MySQL",
+    "REST API",
+    "Git",
+    "Agile",
+    "Linux",
+    "Microservices"
+  ],
+  "matchingJobs": [
+    {
+      "jobId": "JD001",
+      "role": "Software Engineer",
+      "company": "Capgemini",
+      "aboutRole": "Should have 7 years of strong handson experience with Core Java Spring boot. Should have 4 years of strong handson experience with Angular or React.",
+      "requiredSkills": [
+        "Java",
+        "Spring Boot",
+        "Angular",
+        "React",
+        "SQL Server",
+        "NoSQL",
+        "Microservices",
+        "Kafka",
+        "REST API",
+        "Docker",
+        "Kubernetes"
+      ],
+      "optionalSkills": [
+        "Python",
+        "AI/ML",
+        "Azure",
+        "CI/CD",
+        "Jenkins"
+      ],
+      "skillsAnalysis": [
+        { "skill": "Java", "presentInResume": true },
+        { "skill": "Spring Boot", "presentInResume": true },
+        { "skill": "Angular", "presentInResume": false },
+        { "skill": "React", "presentInResume": true },
+        { "skill": "SQL Server", "presentInResume": false },
+        { "skill": "NoSQL", "presentInResume": false },
+        { "skill": "Microservices", "presentInResume": true },
+        { "skill": "Kafka", "presentInResume": false },
+        { "skill": "REST API", "presentInResume": true },
+        { "skill": "Docker", "presentInResume": true },
+        { "skill": "Kubernetes", "presentInResume": true },
+        { "skill": "Python", "presentInResume": true },
+        { "skill": "AI/ML", "presentInResume": false },
+        { "skill": "Azure", "presentInResume": false },
+        { "skill": "CI/CD", "presentInResume": false },
+        { "skill": "Jenkins", "presentInResume": false }
+      ],
+      "matchingScore": 50,
+      "salary": "61087 - 104364",
+      "yearsOfExperience": 7
+    },
+    {
+      "jobId": "JD002",
+      "role": "Software Engineer",
+      "company": "Adobe",
+      "aboutRole": "Adobe is seeking talented and passionate Software Engineers to help plan, design, develop, and test software systems or applications.",
+      "requiredSkills": [
+        "Python",
+        "Java",
+        "C++"
+      ],
+      "optionalSkills": [
+        "AI/ML",
+        "React",
+        "Angular",
+        "jQuery",
+        "CI/CD"
+      ],
+      "skillsAnalysis": [
+        { "skill": "Python", "presentInResume": true },
+        { "skill": "Java", "presentInResume": true },
+        { "skill": "C++", "presentInResume": false },
+        { "skill": "AI/ML", "presentInResume": false },
+        { "skill": "React", "presentInResume": true },
+        { "skill": "Angular", "presentInResume": false },
+        { "skill": "jQuery", "presentInResume": false },
+        { "skill": "CI/CD", "presentInResume": false }
+      ],
+      "matchingScore": 38,
+      "salary": "$139,000 -- $257,550",
+      "yearsOfExperience": 5
+    }
+  ]
+}
